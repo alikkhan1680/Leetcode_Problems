@@ -15,4 +15,3 @@ def Substring(s):
 
 
 print(Substring('abctc'))
-                #"tc"
